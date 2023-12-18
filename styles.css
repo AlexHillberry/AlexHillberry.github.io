@@ -26,6 +26,12 @@ li {
     margin-bottom: 5px;
 }
 
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
 a {
     color: #007bff;
     text-decoration: none;
@@ -33,4 +39,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+#github-picture {
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
 }
