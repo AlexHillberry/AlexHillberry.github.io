@@ -2,13 +2,19 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 header {
     text-align: center;
 }
 
-h1, h2, h3 {
+main {
+    flex: 1;
+}
+
+h1, h2, h3, h4 {
     color: #333;
 }
 
@@ -42,4 +48,11 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* Add this for the GitHub picture */
+#github-picture {
+    width: 150px; /* Adjust the width as needed */
+    border-radius: 50%; /* Make it circular */
+    margin-right: 20px; /* Add some space to the right of the picture */
 }
