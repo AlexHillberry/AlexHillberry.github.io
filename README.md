@@ -1,5 +1,3 @@
-![Alex Hillberry](https://alexhillberry.github.io/AlexHillberry/)
-
 ## About Me
 Hello, I'm Alex Hillberry, a passionate aspiring healthcare analyst and pharmacy subject matter expert with working knowledge of Python, R, SQL, and Excel.
 
