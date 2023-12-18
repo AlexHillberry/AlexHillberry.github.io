@@ -2,29 +2,19 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 20px;
-    display: flex;
-    flex-direction: row;
 }
 
 header {
     text-align: center;
-}
-
-main {
-    flex: 1;
+    margin-bottom: 20px;
 }
 
 h1, h2, h3, h4 {
     color: #333;
 }
 
-h2 {
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-}
-
 section {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 ul {
@@ -36,11 +26,6 @@ li {
     margin-bottom: 5px;
 }
 
-footer {
-    margin-top: 20px;
-    text-align: center;
-}
-
 a {
     color: #007bff;
     text-decoration: none;
@@ -48,11 +33,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-/* Add this for the GitHub picture */
-#github-picture {
-    width: 150px; /* Adjust the width as needed */
-    border-radius: 50%; /* Make it circular */
-    margin-right: 20px; /* Add some space to the right of the picture */
 }
