@@ -5,15 +5,22 @@ body {
 }
 
 header {
-    text-align: center; /* Center the text content */
-    margin-bottom: 20px; /* Add margin at the bottom for spacing */
+    display: flex;
+    align-items: center;
 }
 
 #github-picture {
-    width: 150px; /* Adjust the width as needed */
-    border-radius: 50%; /* Make it circular */
-    float: left; /* Align the image to the left */
-    margin-right: 20px; /* Add some space to the right of the picture */
+    width: 150px;
+    border-radius: 50%;
+}
+
+header div {
+    margin-left: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 h1, h2, h3, h4 {
