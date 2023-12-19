@@ -1,3 +1,9 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
 header {
     display: flex;
     align-items: center;
@@ -12,6 +18,42 @@ header {
 
 h1 {
     margin: 0; /* Remove default margin for h1 */
+    flex-grow: 1; /* Allow h1 to take remaining space */
 }
 
+main {
+    max-width: 800px; /* Adjust the max-width as needed */
+    margin: 0 auto; /* Center the content */
+}
 
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
