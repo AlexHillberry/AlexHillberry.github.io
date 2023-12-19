@@ -5,9 +5,8 @@ body {
 }
 
 header {
-    display: flex;
-    align-items: center;
-    margin: 20px 0; /* Add margin to the top and bottom for spacing */
+    text-align: left; /* Align the header content to the left */
+    margin-bottom: 20px; /* Add margin to the bottom for spacing */
 }
 
 #github-picture {
@@ -16,14 +15,8 @@ header {
     margin-right: 20px; /* Add some space to the right of the picture */
 }
 
-h1 {
-    margin: 0; /* Remove default margin for h1 */
-    flex-grow: 1; /* Allow h1 to take remaining space */
-}
-
-main {
-    max-width: 800px; /* Adjust the max-width as needed */
-    margin: 0 auto; /* Center the content */
+h1, h2, h3, h4 {
+    color: #333;
 }
 
 h2 {
