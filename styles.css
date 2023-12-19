@@ -5,13 +5,14 @@ body {
 }
 
 header {
-    text-align: left; /* Align the header content to the left */
-    margin-bottom: 20px; /* Add margin to the bottom for spacing */
+    text-align: center; /* Center the text content */
+    margin-bottom: 20px; /* Add margin at the bottom for spacing */
 }
 
 #github-picture {
     width: 150px; /* Adjust the width as needed */
     border-radius: 50%; /* Make it circular */
+    float: left; /* Align the image to the left */
     margin-right: 20px; /* Add some space to the right of the picture */
 }
 
