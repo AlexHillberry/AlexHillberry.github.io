@@ -1,58 +1,17 @@
-body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-}
-
 header {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 20px 0; /* Add margin to the top and bottom for spacing */
 }
 
-main {
-    max-width: 800px; /* Adjust the max-width as needed */
-    margin: 0 auto; /* Center the content */
-}
-
-h1, h2, h3, h4 {
-    color: #333;
-}
-
-h2 {
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 5px;
-}
-
-footer {
-    margin-top: 20px;
-    text-align: center;
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-/* Add this for the GitHub picture */
 #github-picture {
     width: 150px; /* Adjust the width as needed */
     border-radius: 50%; /* Make it circular */
     margin-right: 20px; /* Add some space to the right of the picture */
 }
+
+h1 {
+    margin: 0; /* Remove default margin for h1 */
+}
+
 
