@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Alex Hillberry, a passionate aspiring healthcare analyst with a solid foundation in pharmacy. I bring a wealth of industry knowledge and proficiency in Python, R, SQL, and Excel.
+Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharmacy industry knowledge. I have an analytical mind for problem-solving and enjoy contemplating asking hard questions. My career interests include customer service metrics, insurance, and specialty drugs.
 
 ## Skills
 
