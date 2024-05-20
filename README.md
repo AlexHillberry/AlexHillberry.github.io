@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharmacy industry knowledge. I have an analytical mind for problem-solving and enjoy contemplating asking hard questions. My career interests include customer service metrics, insurance, and specialty drugs.
+Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharmacy industry knowledge. I have an analytical mind for problem-solving and enjoy asking hard questions. My career interests include customer service metrics, insurance, and specialty drugs.
 
 ## Skills
 
