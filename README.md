@@ -4,7 +4,7 @@ Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharma
 
 ## Skills
 
-- **Python:** Matplotlib, Sklearn, Pandas, Numpy
+- **Python:** Seaborn, Matplotlib, Sklearn, Pandas, Numpy
 - **R:** Tidyverse, Dplyr, GGplot2, RMarkdown
 - **Excel:** Pivot Tables, Data Analysis
 - **Tableau:** Charting and Dashboard Creation
@@ -15,6 +15,9 @@ Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharma
 
 - **Description:** Focused on a public dataset from data.gov to inquire about potential pitfalls of Medicare Part D spending and how to improve them.
 - **Link:** [Investigative Study on Part D Drugs](https://rpubs.com/AlexHillberry/1070745)
+
+### Drug Sentiment Analysis
+- **Available on Request** Ask me about this project, and my ideas using NLP libraries to solve Merchandising problems!
 
 ## Experience
 
@@ -57,11 +60,6 @@ Hello, I'm Alex Hillberry, a passionate, aspiring healthcare analyst with pharma
 
 - **Since 2017**
 - Student Ministry Volunteer for Middle School and High School students
-
-### International Network of Creatives
-
-- **Since 2023**
-- Ministry-related volunteer work conducted at David Lawrence Centers for Behavioral Health
 
 ## Contact
 
