@@ -44,7 +44,7 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 - Moments of Care Pin Recipient – 2020  
 
 **Responsibilities**  
-- **Immunization Leadership:** Led the store’s immunization efforts since obtaining certification, engaging patients, coordinating with team members, and supporting readiness during peak vaccination periods.  
+- **Immunization Leadership:** Co-led store's immunization efforts since obtaining certification, engaging patients, coordinating training with team members, and supporting readiness during peak vaccination periods.  
 - **Specialty Drug Growth:** Individually spearheaded store GLP-1 inventory growth during the 2024 GLP-1 shortage by creatively utilizing inventory projections, enabling the store to capture the majority of its current patient load from competitors through consistent care. Subsequently approached about that success to standardize the method across the business segment.  
 - **Therapy Knowledge & Prior Authorization Management:** Apply in-depth knowledge of therapy requirements, including GLP-1 onboarding, to manage daily prior authorizations with providers, ensuring seamless patient transitions and timely approvals.  
 - **Business Improvement:** Regularly review internal dashboards to identify operational improvement opportunities and efficiency gains.  
