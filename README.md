@@ -49,7 +49,7 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 - **Therapy Knowledge & Prior Authorization Management:** Apply in-depth knowledge of therapy requirements, including GLP-1 onboarding, to manage daily prior authorizations with providers, ensuring seamless patient transitions and timely approvals.  
 - **Business Improvement:** Regularly review internal dashboards to identify operational improvement opportunities and efficiency gains.  
 - **Customer Service Excellence:** Achieved top national rankings in pharmacy service scores — #6 in 2023 and #21 in 2024 — reflecting strong patient engagement and consistent service delivery.  
-- **Cross-Functional Collaboration:** Collaborate effectively with store leadership and multi-store teams to strengthen communication and operational alignment.  
+- **Cross-Functional Collaboration:** Collaborate effectively with store leadership and multi-store teams to strengthen communication and operational alignment ranging from H&W tasks to montlhy safety meetings and P&L.  
 
 ## Education
 
