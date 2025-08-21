@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry expertise, deep clinical knowledge, and demonstrated success in process improvement and cross-functional collaboration. I am passionate about using data to ask complex questions and solve healthcare problems in practical and effective ways.
+Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry expertise, deep clinical knowledge, and demonstrated success in process improvement and cross-functional collaboration. I am passionate about using data to solve healthcare problems in practical and effective ways.
 
 ## Skills
 
@@ -25,10 +25,10 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 
 ### Walmart Summer Intern, Merchandising
 **Summer 2024**  
-- Led a process improvement initiative targeting financial efficiencies in a specific merchandising segment, identifying opportunities for cost reduction and operational streamlining.  
+- Led a process improvement initiative targeting areas of financial improvement in a specific merchandising segment, identifying opportunities for cost reduction and optimization.  
 - Contributed to long-term merchandising projects that enhanced supply chain health, driving improvements in inventory flow and product availability.  
-- Successfully located and organized critical data sources, enabling more effective decision-making and performance tracking.  
-- Acted as an *enabler* by fostering end-to-end cooperation between cross-functional teams, encouraging collaborative problem-solving.  
+- Collaborated with teams to find data, then used that data to enable more effective decision-making and performance tracking of various categories.  
+- Acted as an *enabler* by fostering end-to-end cooperation between cross-functional teams, leading to collaborative discussions and developed solutions.  
 - Presented project findings and recommendations to leadership levels including EVP Health and Wellness and SVP of Pharmacy, gaining alignment on strategic actions.  
 
 ### Walmart Certified Pharmacy Technician
@@ -48,8 +48,8 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 - **Specialty Drug Growth:** Individually spearheaded store GLP-1 inventory growth during the 2024 GLP-1 shortage by creatively utilizing inventory projections, enabling the store to capture the majority of its current patient load from competitors through consistent care. Subsequently approached about that success to standardize the method across the business segment.  
 - **Therapy Knowledge & Prior Authorization Management:** Apply in-depth knowledge of therapy requirements, including GLP-1 onboarding, to manage daily prior authorizations with providers, ensuring seamless patient transitions and timely approvals.  
 - **Business Improvement:** Regularly review internal dashboards to identify operational improvement opportunities and efficiency gains.  
-- **Customer Service Excellence:** Achieved top national rankings in pharmacy service scores — #6 in 2023 and #21 in 2024 — reflecting strong patient engagement and consistent service delivery.  
-- **Cross-Functional Collaboration:** Collaborate effectively with store leadership and multi-store teams to strengthen communication and operational alignment ranging from H&W tasks to monthly safety meetings, sales and P&L.  
+- **Customer Service Excellence:** Achieved *#6* company wide Net Promotor Score in 2023, and *#21* in 2024. 
+- **Cross-Functional Collaboration:** Actively collaborates with store leadership and multi-store teams to strengthen communication and operational alignment ranging from H&W tasks to monthly safety meetings, sales and P&L.  
 
 ## Education
 
