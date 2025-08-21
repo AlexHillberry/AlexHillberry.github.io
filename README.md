@@ -23,7 +23,7 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 
 ## Experience
 
-### Year 4 – Walmart Summer Intern, Merchandising
+### Walmart Summer Intern, Merchandising
 **Summer 2024**  
 - Led a process improvement initiative targeting financial efficiencies in a specific merchandising segment, identifying opportunities for cost reduction and operational streamlining.  
 - Contributed to long-term merchandising projects that enhanced supply chain health, driving improvements in inventory flow and product availability.  
@@ -31,7 +31,7 @@ Hello, I'm Alex Hillberry, an aspiring healthcare manager with pharmacy industry
 - Acted as an *enabler* by fostering end-to-end cooperation between cross-functional teams, encouraging collaborative problem-solving.  
 - Presented project findings and recommendations to leadership levels including EVP Health and Wellness and SVP of Pharmacy, gaining alignment on strategic actions.  
 
-### Years 2–Present – Walmart Certified Pharmacy Technician
+### Walmart Certified Pharmacy Technician
 **October 2013 – Present**  
 
 **Licensure**  
